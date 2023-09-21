@@ -1,0 +1,49 @@
+[
+    {
+        "name": "eläimet",
+        "words": [
+            "kissa",
+            "koira",
+            "tiikeri"
+        ]
+    },
+    {
+        "name": "ruoka",
+        "words": [
+            "pizza",
+            "kurkku",
+            "suklaa"
+        ]
+    },
+    {
+        "name": "juoma",
+        "words": [
+            "tee",
+            "kahvi",
+            "maito"
+        ]
+    },
+    {
+        "name": "kielet",
+        "words": [
+            "nepali",
+            "norja",
+            "persia",
+            "portugali",
+            "puola",
+            "ranska",
+            "saksa",
+            "somali",
+            "swahili",
+            "tagalogi",
+            "tanska",
+            "thai",
+            "turkki",
+            "unkari",
+            "urdu",
+            "viro",
+            "venäjä",
+            "vietnam"
+        ]
+    }
+]
