@@ -28,5 +28,5 @@ Hangman is a classic word-guessing game. In this game, players are presented wit
 
 To try the Hangman game or contribute to the Hirvi project, follow these steps:
 
-1. Visit the [Hirvi Hangman Game]([link-to-github-pages](https://randomamber.github.io/hangman/) on GitHub Pages.
+1. Visit the [Hirvi Hangman Game](https://randomamber.github.io/hangman/) on GitHub Pages.
 2. Start playing and learning Finnish!
